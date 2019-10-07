@@ -1,4 +1,4 @@
-# misc-python-etc
+# misc
 
 miscellaneous exercises in python and otherwise
 
