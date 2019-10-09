@@ -1,8 +1,10 @@
 # misc
 
-miscellaneous exercises in python and otherwise
+miscellaneous exercises in python and otherwise, all in jupyter notebook
 
 repository for various mini-projects in practice and further understanding etc.
+
+Approximate Bayesian Computing - experimenting with ABC algorithm as a likelihood free method and alternative to MCMC for Bayesian modeling
 
 Kernel Ridge Regression - krr recreated in python from R, with changes in cross validation method and function. purpose was to better understand KRR. original R code from Advanced Topics in Statistical Machine Learning at University of Oxford Statistics department - 10/19
 
